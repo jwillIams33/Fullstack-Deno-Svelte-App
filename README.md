@@ -23,7 +23,7 @@ You must have Node.js and npm installed on your machine. This project was built 
 ### Setting up a MongoDB cluster
 - create an account at https://www.mongodb.com/
 - navigate to Security > Database Access and create a user
-- Save your user name and password in `db_config.ts` file
+- Save your user name and password in the `db_config.ts` file inside the `Backend` folder
 - Under Security > Network Access add your current IP Address
 
 ### Run the Svelte App:
